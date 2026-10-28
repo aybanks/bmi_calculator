@@ -11,3 +11,5 @@ const kGenderTextStyle = TextStyle(
 );
 
 const kCardTextStyle = TextStyle(fontSize: 50.0, fontWeight: FontWeight(900));
+
+const kNewCardTextStyle = TextStyle(fontSize: 90.0, fontWeight: FontWeight(900));
